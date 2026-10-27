@@ -1,4 +1,4 @@
-# WhatsApp French Tutor
+# WhatsApp French Bot Tutor
 
 A French conversation partner that lives in WhatsApp. Text it in French and it replies naturally, corrects your mistakes with a short explanation, logs every new word it teaches you, and can set and mark exam-style writing tasks for the TCF, TEF and DELF.
 
