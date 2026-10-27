@@ -1,0 +1,19 @@
+{
+  "name": "whatsapp-french-tutor",
+  "version": "1.0.0",
+  "description": "A French tutor on WhatsApp: conversation practice, corrections, vocabulary logging and TCF/TEF/DELF exam mode, built on Claude and Twilio.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node --env-file=.env index.js"
+  },
+  "keywords": [],
+  "author": "Tolu Ajibola",
+  "license": "ISC",
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.82.0",
+    "better-sqlite3": "^12.8.0",
+    "express": "^5.2.1",
+    "twilio": "^5.13.1"
+  }
+}
